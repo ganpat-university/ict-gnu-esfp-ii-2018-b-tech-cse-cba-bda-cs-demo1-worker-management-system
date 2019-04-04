@@ -1,22 +1,4 @@
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-
-10 of 296
-ESFP PROJECT FINAL PPT AND FILE
-Inbox
-x
-
-patel shloka
-Attachments
-Thu, Mar 28, 12:11 AM (8 days ago)
-to patel, me, shreyavanparia10
-
-
-3 Attachments
-
 #include<iostream>
 #include<cstring>
 #include<fstream>
@@ -240,5 +222,3 @@ g[i].date_of_joining<<"/"<<g[i].month_of_joining<<"/"<<g[i].year_of_joining<<end
 		}
 		}while(choice!=4);
 }
-finalproject.txt
-Displaying finalproject.txt.
