@@ -5,7 +5,7 @@
 
     <>:: Worker management system ::<>
 
-     ><  A worker management system is a system where all the details of the worker like wrk_id , wrk_name , wrk_name ,                          wrk_bankac_details , wrk_gender , wrk_adhaar_update , wrrk_daily_rate , wrk_overtime_hrs , wrk_over_time_date ,                          date_of_joining. here a small part of implementation has to be done which are as:-
+     ><  A worker management system is a system where all the details of the worker like wrk_id , wrk_name , wrk_name ,               wrk_bankac_details , wrk_gender , wrk_adhaar_update , wrrk_daily_rate , wrk_overtime_hrs , wrk_over_time_date , date_of_joining. here a small part of implementation has to be done which are as:-
 
          >>  task-1;
                  >>> Display all the worker names whose gender is male.
