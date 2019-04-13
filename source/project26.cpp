@@ -153,6 +153,8 @@ int main()
   
         } 
     } 
+	
+	
 	for(i=0;i<5;i++)
 	{
 		ob[i].putdata();
@@ -167,7 +169,8 @@ int main()
 		}
 	}
 
-	cout<<"\n=================================FILE HANDLING==============================\n";
+	cout<<"\n\n\n\n=================================   FILE HANDLING   ==============================\n\n";
+	
 	do
 	{
 		cout<<"1.To display the given recors in a file\n";
