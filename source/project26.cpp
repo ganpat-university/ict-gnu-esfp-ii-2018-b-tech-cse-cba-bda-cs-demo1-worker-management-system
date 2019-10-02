@@ -9,7 +9,7 @@ using namespace std;
 class worker_mgmt
 {
 	public:
-	int wrk_id,wrk_daily_rate,wrk_overtime_hrs,k;
+	int wrk_id,wrk_daily_rate,wrk_overtime_hrs,k,m;
 	int wrk_over_time_date,wrk_over_time_month,wrk_over_time_year;
 	int date_of_joining,month_of_joining,year_of_joining;
 	char wrk_name[10],wrk_gender[10],wrk_bankac_details[10],wrk_addar_updated[10],n[10];
